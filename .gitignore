@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.bak
+*.tmp
+build/
+*.o
+*.dSYM
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
